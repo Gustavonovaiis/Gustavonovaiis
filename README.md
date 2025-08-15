@@ -16,18 +16,14 @@ Olá! Me chamo Gustavo Novais, tenho 24 anos e atualmente atuo como desenvolvedo
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
 
 #
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavonovaiis&theme=algolia" alt="Detalhes do perfil" width="33%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavonovaiis&theme=algolia" alt="Estatísticas" width="33%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavonovaiis&theme=algolia" alt="Linguagens" width="33%">
-</p>
-
+## 🐍 Minha cobrinha de contribuições
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavonovaiis/Gustavonovaiis/output/snake-dark.svg" />
     <img alt="Animação da cobrinha consumindo minhas contribuições" src="https://raw.githubusercontent.com/Gustavonovaiis/Gustavonovaiis/output/snake.svg" />
   </picture>
 </p>
+
 
 
 
