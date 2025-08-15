@@ -22,5 +22,12 @@ Olá! Me chamo Gustavo Novais, tenho 24 anos e atualmente atuo como desenvolvedo
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavonovaiis&theme=algolia" alt="Linguagens" width="33%">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavonovaiis/Gustavonovaiis/output/snake-dark.svg" />
+    <img alt="Animação da cobrinha consumindo minhas contribuições" src="https://raw.githubusercontent.com/Gustavonovaiis/Gustavonovaiis/output/snake.svg" />
+  </picture>
+</p>
+
 
 
