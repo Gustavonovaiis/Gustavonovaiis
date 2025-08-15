@@ -17,8 +17,10 @@ Olá! Me chamo Gustavo Novais, tenho 24 anos e atualmente atuo como desenvolvedo
 
 #
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavonovaiis&theme=algolia" alt="Detalhes do perfil" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavonovaiis&theme=algolia" alt="Estatísticas" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavonovaiis&theme=algolia" alt="Detalhes do perfil" width="33%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavonovaiis&theme=algolia" alt="Estatísticas" width="33%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavonovaiis&theme=algolia" alt="Linguagens" width="33%">
 </p>
+
 
 
